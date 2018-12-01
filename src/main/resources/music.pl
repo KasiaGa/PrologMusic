@@ -39,7 +39,7 @@ artysta(mozart) :- gatunek(muzyka_klasyczna),
 			okres(wiek_18).
 
 artysta(abba) :- gatunek(pop), 
-			okres(jest, lata_70),
+			okres(lata_70),
 			pozytywne(taneczny),
 			nastroj(energiczny).
 
